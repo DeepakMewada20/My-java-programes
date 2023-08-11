@@ -1,0 +1,2 @@
+enter first employ selery is = 300
+enter second employ selery is = 56
